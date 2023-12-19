@@ -2,12 +2,12 @@
 
 
 ##   69phisher 	: 	Automated Phishing Tool
-##   Author 	: 	Akshay 
+##   Author 	: 	master 
 ##   Version 	: 	1.2
 ##   Github 	: 	https://github.com/Akshay-Arjun
 ## Modified version of :
 ##   Zphisher 	: 	Automated Phishing Tool
-##   Author 	: 	TAHMID RAYAT 
+##   Author 	: 	Master TG
 ##   Version 	: 	2.2
 ##   Github 	: 	https://github.com/htr-tech  
 
@@ -83,7 +83,7 @@ ${ORANGE}              | |
 ${ORANGE}              |_|   ${RED}Version : 1.2
               
 
-${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Akshay-Arjun ${WHITE}
+${GREEN}[${WHITE}-${GREEN}]${CYAN} Tool Created by Master TG ${WHITE}
 EOF
 }
         
