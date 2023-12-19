@@ -8,7 +8,7 @@
 
 ##### Just, Clone this repository -
 ```sh
-$ git clone https://github.com/Akshay-Arjun/69phisher.git
+git clone https://github.com/Akshay-Arjun/69phisher.git
 ```
 
 ##### Change to cloned directory -
